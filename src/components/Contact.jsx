@@ -46,7 +46,7 @@ const Contact = () => {
           transition={{ duration: 0.6 }}
         >
           <p className="text-gray-300 text-lg leading-relaxed">
-            Feel free to contact me for projects, collaborations or any opportunities.
+            Open to projects and hiring opportunities — feel free to reach out anytime.
           </p>
 
           <div className="flex gap-6 mt-8">

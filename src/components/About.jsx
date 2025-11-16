@@ -22,7 +22,7 @@ const About = () => {
         className="text-gray-300 max-w-2xl leading-relaxed"
       >
         I'm Priyanshu, a passionate{" "}
-        <span className="text-purple-400 font-semibold">Frontend Developer</span>  
+        <span className="text-purple-400 font-semibold">Frontend Developer </span>  
         who loves building clean, modern and animated web interfaces using  
         <span className="text-purple-400 font-semibold"> React, Tailwind & Framer Motion</span>.
       </motion.p>
