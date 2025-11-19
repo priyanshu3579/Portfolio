@@ -69,7 +69,7 @@ const About = () => {
                      hover:shadow-purple-500/20 transition"
         >
           <h3 className="text-xl font-semibold mb-2">Tools</h3>
-          <p className="text-gray-400 text-sm">VS Code, GitHub, Figma</p>
+          <p className="text-gray-400 text-sm">VS Code, GitHub</p>
         </motion.div>
 
       </div>
